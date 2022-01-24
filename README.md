@@ -1,4 +1,4 @@
-## Ceon #KimseBaş? 
+## Ceon Coin Bot
 Hakkı Alkan ve Homé Company için kullandığım Türkiye'de paylaşılmış ilk coin botudur.
 
 ## Kurulum
