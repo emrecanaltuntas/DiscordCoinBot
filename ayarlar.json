@@ -1,0 +1,14 @@
+{
+  "prefix": "Prefix",
+  "sahip": "Sahip ID",
+  "token": "Token",
+  "sohbetkanalı": "Bot hangi kanal üzerinde mesajları çekecekse o kanalın idsini yazınız. Sohbet kanalının idsini koyabilirsiniz. Botun bütün kanallardaki mesajları çekmesini istiyorsanız index.js üzerinde 93. satırı silebilirsiniz.", 
+  "sunucuID": "Sunucu ID",
+  "coinadı": "Coin Adı",
+  "coinadıkisaltmasi":"Coin Adı Kısaltması",
+  "rol1ID": "1. Rol ID",
+  "rol2ID": "2. Rol ID",
+  "rol3ID": "3. Rol ID",
+  "rol4ID": "4. Rol ID",
+  "rol5ID": "5. Rol ID"
+}
