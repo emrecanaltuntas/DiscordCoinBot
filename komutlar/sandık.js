@@ -12,7 +12,7 @@ exports.run = async (client, message,args) => {
   if(daily !== null && timeout - (Date.now() - daily) > 0){
       let time = ms(timeout - (Date.now() - daily));
 
-message.reply(`Bu komutu kullanabilmek beklemen gereken süreyi \`/sandık\` komutu ile görebilirsin.`)
+message.reply(`Bu komutu kullanabilmek için **\`${time}\`** daha beklemen gerekiyor.`)
   } else {
      
     db.set(`daily_${member.id}`, Date.now());
