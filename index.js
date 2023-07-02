@@ -94,7 +94,7 @@ if (message.channel.id != ayarlar.sohbetkanalı) return
 const Olasilik = [true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
 const Olasilikk = Olasilik[Math.floor(Math.random() * Olasilik.length)]
 if(Olasilikk == true) {
-const KacanPuanlar = [`Olamaz! Bu da ne! Hemen birisi şu kaçan puanlarımı yakalasın! Tam **{{coin}}** puanım elimden kaydı!`,`Ceon'un bilgisayarında **{{coin}}** ${ayarlar.coinadıkısaltması} coin gözüktü, onu ilk kapan olmak için butona **tıkla**!`]
+const KacanPuanlar = [`Olamaz! Bu da ne! Hemen birisi şu kaçan puanlarımı yakalasın! Tam **{{coin}}** puanım elimden kaydı!`,`Ceon'un bilgisayarında **{{coin}}** ${ayarlar.coinadıkisaltmasi} coin gözüktü, onu ilk kapan olmak için butona **tıkla**!`]
 const PuanButon = KacanPuanlar[Math.floor(Math.random() * KacanPuanlar.length)]
 const randomNumber = getRandomFloat(400, 851)
 const button = new buttons.MessageButton() 
