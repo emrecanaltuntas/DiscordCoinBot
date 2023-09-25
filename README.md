@@ -25,11 +25,9 @@ Botu davet ederken uygulama komutları oluşturma seçeneğini seçmelisiniz ç�
 
 # Profil
 Hakkımda bölümü ayarlanmamış: ![image](https://user-images.githubusercontent.com/68862382/150836760-5daf25da-daf6-4153-b4d4-cab878dcda17.png)
-Hakkımda bölümü ayarlanmış: ![image](https://user-images.githubusercontent.com/68862382/150836522-f43cff68-e183-45af-aaaa-21724d7f9662.png)
 
 # Hakkımda
 ![image](https://user-images.githubusercontent.com/68862382/150836572-ebe5a19a-c451-44d8-828d-b878a7a8796f.png)
-![image](https://user-images.githubusercontent.com/68862382/150836636-4b46d6b6-bddc-4fe5-9542-32c09097c04f.png)
 
 # Veri(Kuruculara Özel)
 ![image](https://user-images.githubusercontent.com/68862382/150837064-f0af382a-845e-4212-b82f-277a42f6c61e.png)
